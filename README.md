@@ -1,7 +1,7 @@
 ![info](https://github-readme-stats.vercel.app/api?username=Masterlvov&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 # Hello there 👋
 
-![](https://github.com/Masterlvov/Masterlvov/icons/)
+![](https://github.com/Masterlvov/Masterlvov/master/icons/)
 
 I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
 
