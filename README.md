@@ -4,7 +4,7 @@
 
 ![](https://github.com/Masterlvov/Masterlvov/blob/main/master/icons/header_.png)
 
-I make elegantly professional **💻 $\LATEX$, Python**  and also **Write some blogs**. 🌈    
+I make elegantly professional **💻 $\LaTx$, Python**  and also **Write some blogs**. 🌈    
 
 * 🧐   Interested in Basketball. Recent focus on battery.
 * 🎓   Master of Chemical engineering.
